@@ -1,3 +1,4 @@
+# ABOUT ME
 - 👋 Hi, I’m @elixerprince
 - 👀 I’m interested in art, music and webtoons
 - 🌱 I’m currently learning HTML, CSS and JavaScript
