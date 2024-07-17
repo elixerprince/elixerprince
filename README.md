@@ -7,4 +7,5 @@ I’m currently learning HTML, CSS, and JavaScript and hope to get proficient en
 I’m open to collaborating on various projects that allow me to become a more experienced programmer, such as websites, apps, and maybe games in the future.
 
 Pronouns: He/Him
+
 Fun fact: I hate cucumbers but love banana smoothies and cake.
