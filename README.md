@@ -1,4 +1,4 @@
-# Introduction
+<h1>Introduction</h1>
 Hi, I’m Daniel Leith and I also go by Elixer Prince
 # Hobbies
 I’m interested in digital art, piano music, and webtoons. I'm currently working on a novel called Beyond Reality - An Artist's Perspective which I hope to publish soon.
