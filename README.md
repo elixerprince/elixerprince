@@ -1,5 +1,5 @@
 # Introduction
-Hi, I’m Daniel Leith (Elixer Prince) and I'm a dedicated front-end developer
+Hi, I’m Daniel Leith (Elixer Prince) and I'm a dedicated front-end developer dedicated to creating stunning websites/applications that solve real-world problems.
 # Programming Experience
 I’m skilled at:
 - HTML 
