@@ -1,7 +1,11 @@
 # Introduction
-Hi, I’m Daniel Leith and I also go by Elixer Prince.
+Hi, I’m Daniel Leith (Elixer Prince) and I'm a dedicated front-end developer
 # Programming Experience
-I’m skilled at HTML CSS and JavaScript/Typescript and also have experience using front-end frameworks such as TailwindCSS and React.
+I’m skilled at:
+- HTML 
+- CSS
+- JavaScript/Typescript
+- I also have experience using front-end frameworks such as TailwindCSS and React.
 # Hobbies
 I’m interested in digital art, anime piano music, and Webtoons. I'm currently working on a novel called Beyond Reality - An Artist's Perspective which I hope to publish soon.
 
