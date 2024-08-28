@@ -3,7 +3,7 @@ Hi, I’m Daniel Leith (Elixer Prince) and I'm a dedicated front-end developer d
 # Programming Experience
 I’m skilled at:
 - HTML 
-- CSS
+- CSS/SCSS
 - JavaScript/Typescript
 - I also have experience using front-end frameworks such as TailwindCSS and React.
 # Hobbies
